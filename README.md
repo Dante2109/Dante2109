@@ -15,7 +15,7 @@ and reliability of any project thrown at him.
 
 - 👨‍💻 All of my projects are available at- 📑[Portfolio]([https://dante210-.github.io/])
 
-- 📫 How to reach me- 📧-akashsingha3558@gmail.com 📌[Linkedin](https://www.linkedin.com/in/akshayverma21/)
+- 📫 How to reach me- 📧-akshayverema4299@gmail.com 📌[Linkedin](https://www.linkedin.com/in/akshayverma21/)
 
 - 📄  To see my -[Resume](https://drive.google.com/file/d/1e0UsfaFSO5pOkOz2AgOxE1cqo997aw2x/view?usp=share_link)
 
