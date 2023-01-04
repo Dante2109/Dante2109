@@ -1,4 +1,4 @@
-<h1 align="center">Hey 👋, I'm<a href="https://github.com/akash-singha-3558/"> Akshya Verma</a></h1> 
+<h1 align="center">Hey 👋, I'm<a href="https://github.com/akash-singha-3558/"> Akshay Verma</a></h1> 
 
 ### Hello Developer Welcome to my Github! &nbsp; <br/>
 A tech-enthusiast, with 1000+ hours of hands-on
@@ -78,6 +78,6 @@ and reliability of any project thrown at him.
 <img width='150' height='50' src="https://camo.githubusercontent.com/81e598418a780d07b9e23fd717200fca0f18dee49d78507f03f7eea1c1d23fbb/687474703a2f2f692e696d6775722e636f6d2f513754515948782e706e67" />
 </h1>
 
-![](https://github-readme-stats.vercel.app/api?username=akash-singha-3558&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=false)<br/><br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=akash-singha-3558&theme=vue-dark&hide_border=false)<br/><br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=akash-singha-3558&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<br/>
+![](https://github-readme-stats.vercel.app/api?username=dante2109&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=false)<br/><br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=dante2109&theme=vue-dark&hide_border=false)<br/><br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=dante2109&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<br/>
