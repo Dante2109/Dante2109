@@ -84,23 +84,4 @@ the project.
 ![](https://github-readme-stats.vercel.app/api?username=dante2109&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=false)<br/><br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=dante2109&theme=vue-dark&hide_border=false)<br/><br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=dante2109&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<br/>
-<script
-  src="https://cdn.rawgit.com/IonicaBizau/github-calendar/gh-pages/dist/github-calendar.min.js"
->
-</script>
 
-<!-- Optionally, include the theme (if you don't want to struggle to write the CSS) -->
-<link
-  rel="stylesheet"
-  href="https://cdn.rawgit.com/IonicaBizau/github-calendar/gh-pages/dist/github-calendar.css"
-/>
-
-<!-- Prepare a container for your calendar. -->
-<div class="calendar">
-    <!-- Loading stuff -->
-    Loading the data just for you.
-</div>
-
-<script>
-    new GitHubCalendar(".calendar", "your-username");
-</script>
