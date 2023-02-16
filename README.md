@@ -80,8 +80,7 @@ the project.
   <h1 align='center'>
 <img width='150' height='50' src="https://camo.githubusercontent.com/81e598418a780d07b9e23fd717200fca0f18dee49d78507f03f7eea1c1d23fbb/687474703a2f2f692e696d6775722e636f6d2f513754515948782e706e67" />
 </h1>
+
 ![](https://github-readme-stats.vercel.app/api?username=dante2109&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=false)<br/><br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=dante2109&theme=vue-dark&hide_border=false)<br/><br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=dante2109&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<br/>
-
-
