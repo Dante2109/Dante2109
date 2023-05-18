@@ -16,7 +16,7 @@ the project.
 
 - 🌱 I’m currently learning **MERN Stack, At Masai School**
 
-- 👨‍💻 All of my projects are available at- 📑[Portfolio](https://dante210-.github.io/)
+- 👨‍💻 All of my projects are available at- 📑[Portfolio](https://dante2109.github.io/)
 
 - 📫 How to reach me- 📧-akshayverema4299@gmail.com 📌[Linkedin](https://www.linkedin.com/in/akshayverma21/)
 
